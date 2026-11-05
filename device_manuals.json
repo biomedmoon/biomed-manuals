@@ -1,0 +1,19 @@
+{
+  "Infinity": [
+    { "label": "📖 Operator Manual", "url": "https://your-company-sharepoint-or-wiki-link/infinity_operator_manual.pdf" },
+    { "label": "🔧 Service & Repair Guide", "url": "https://your-company-sharepoint-or-wiki-link/infinity_service_manual.pdf" },
+    { "label": "💰 Billing & Coding Guide", "url": "https://your-company-sharepoint-or-wiki-link/infinity_billing_guide.pdf" }
+  ],
+  "Solis": [
+    { "label": "📖 Operator Manual", "url": "https://your-company-sharepoint-or-wiki-link/solis_operator_manual.pdf" },
+    { "label": "🔧 Service & Repair Guide", "url": "https://your-company-sharepoint-or-wiki-link/solis_service_manual.pdf" },
+    { "label": "⚡ Firmware Bulletin", "url": "https://your-company-sharepoint-or-wiki-link/solis_truly_himax_bulletin.pdf" }
+  ],
+  "Curlin": [
+    { "label": "📖 Operator Manual", "url": "https://your-company-sharepoint-or-wiki-link/curlin_operator_manual.pdf" },
+    { "label": "🔧 Technical Service Manual", "url": "https://your-company-sharepoint-or-wiki-link/curlin_service_manual.pdf" }
+  ],
+  "General": [
+    { "label": "📖 General Hub", "url": "https://your-company-sharepoint-or-wiki-link/general_hub.pdf" }
+  ]
+}
